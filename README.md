@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Sebastian Botero Romero  
+Soy estudiante de *Ingeniería de Software* apasionado por el desarrollo de software, ciberseguridad y las tecnologías modernas. Siempre estoy aprendiendo algo nuevo y mejorando mis habilidades.
 
-<!--
-**Sebas12Bot/Sebas12bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 Sobre mí
+- 📖 Actualmente estudio en *Corporación Universitaria Iberoamericana*.
+- 🛡️ He realizado un curso de ciberseguridad con *Google*.
+- 💼 Aquí está mi [LinkedIn](www.linkedin.com/in/sebastian-botero-romero-a29379342).
+- 🚀 Aprendiendo *HTML, CSS, SQL y Scrum*.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Habilidades
+- *Lenguajes: SQL, Java, HTML, CSS, Python, C++.
+- *Metodologías*: Scrum y desarrollo ágil.
+- *Herramientas*: Git, GitHub, y VS Code.
+
+---
+
+## 📊 Estadísticas de GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Encuéntrame en:
+- [LinkedIn](www.linkedin.com/in/sebastian-botero-romero-a29379342)

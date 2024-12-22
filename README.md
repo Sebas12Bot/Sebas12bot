@@ -26,11 +26,11 @@
 
 <p align="center">
 
-- **Lenguajes de programación**:
+- **Lenguajes de programación y base de datos**:
 
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,linux,postgres,cpp,html,css,js,react,py,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,py,cpp,postgres,mongodb&perline=9" />
   </a>
 </p>
 
@@ -40,7 +40,7 @@
 
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,md,bash&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=6" />
   </a>
 </p>
 

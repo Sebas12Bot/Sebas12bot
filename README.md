@@ -12,10 +12,11 @@
 
 <br>
 
-- 💻 Estudiante de Ingeniería de Software con interés en ciberseguridad y diseño de software.  
-- 🛠️ Actualmente aprendiendo Design Thinking y desarrollo de software seguro.  
-- 📚 Profundizando en la creación de marca personal.  
-- 🌱 En búsqueda de nuevas oportunidades para crecer profesionalmente.  
+- 💻 Estudiante de Ingeniería de Software enfocado en backend y ciberseguridad.
+- 🛠️ Desarrollo con Node.js y TypeScript, creando APIs y soluciones funcionales.
+- 🔐 Interesado en el desarrollo de software seguro y buenas prácticas.
+- 📚 Aprendiendo sobre microservicios, arquitectura y computación en la nube.
+- 🌱 Construyendo proyectos reales para crecer profesionalmente.
 
 <br><br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
